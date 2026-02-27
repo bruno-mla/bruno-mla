@@ -6,7 +6,7 @@ I'm passionate about building things from scratch. My focus is understanding how
 
 - 🔭 **Currently:** Exploring the ecosystem of microcontrollers and automation.
 - 💡 **Philosophy:** Learning by doing.
-- 📫 **Reach me at:** [Your email or social link here]
+- 📫 **Reach me at:** (https://www.instagram.com/brunomateus.me?igsh=MW82c3QzajV3Z3I5MQ==)
 
 ---
 
@@ -19,10 +19,11 @@ I'm passionate about building things from scratch. My focus is understanding how
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-mla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-mla&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 ---
+
 
 > *"If you can't open it, you don't own it."* – Maker Manifesto 🛠️✨

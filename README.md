@@ -6,7 +6,7 @@ I'm passionate about building things from scratch. My focus is understanding how
 
 - 🔭 **Currently:** Exploring the ecosystem of microcontrollers and automation.
 - 💡 **Philosophy:** Learning by doing.
-- 📫 **Reach me at:** (https://www.instagram.com/brunomateus.me?igsh=MW82c3QzajV3Z3I5MQ==)
+- 📫 **Reach me at:** (mailto:https://www.instagram.com/brunomateus.me?igsh=MW82c3QzajV3Z3I5MQ==)
 
 ---
 
@@ -27,3 +27,4 @@ I'm passionate about building things from scratch. My focus is understanding how
 
 
 > *"If you can't open it, you don't own it."* – Maker Manifesto 🛠️✨
+

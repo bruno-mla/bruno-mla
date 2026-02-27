@@ -12,7 +12,7 @@ I'm passionate about building things from scratch. My focus is understanding how
 
 ### 🚀 On My Workbench (Technologies):
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,pinnacle,vscode,github,py,c,linux" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,vscode,github,py,c,linux" />
 </p>
 
 ---
@@ -27,6 +27,7 @@ I'm passionate about building things from scratch. My focus is understanding how
 
 
 > *"If you can't open it, you don't own it."* – Maker Manifesto 🛠️✨
+
 
 
 

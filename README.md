@@ -12,7 +12,7 @@ I'm passionate about building things from scratch. My focus is understanding how
 
 ### 🚀 On My Workbench (Technologies):
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,vscode,github,py,c,linux,premiere" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,vscode,py,c,linux,pr,ae" />
 </p>
 
 ---
